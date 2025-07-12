@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏫 I’m currently a Grade 11 student. <br>🎯Goals: To become proficient in Python and Java before i graduate.<br>🎲 Fun fact: I treat coding like chess — always planning my next move.</p>
+<p align="left">🏫 I’m currently a Grade 11 student. <br>🎯Goals: To become proficient in Python and Java before i graduate O levels.<br>🎲 Fun fact: I treat coding like chess — always planning my next move.</p>
 
 ###
 
