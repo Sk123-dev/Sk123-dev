@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with the following: </h2>
+<h2 align="left">I code using the following: </h2>
 
 ###
 
